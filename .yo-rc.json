@@ -27,5 +27,11 @@
     "testFrameworks": [],
     "jhiPrefix": "jhi",
     "enableTranslation": false
+  },
+  "generator-jhipster-swagger-cli": {
+    "promptValues": {
+      "inputSpec": "http://35.243.135.246:8085/v2/api-docs",
+      "cliName": "patient"
+    }
   }
 }
